@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+Kiran TO-DO list with REACT 
+Here have a look on how it looks like .
 
-.
+<img width="973" alt="Screen Shot 2022-07-12 at 8 16 01 pm" src="https://user-images.githubusercontent.com/101395279/178468117-9182ebb2-c753-4fca-943d-55da1ca6cdf5.png">
+
+
+
+
+To start with 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: npx create-react-app 
 
 ### `npm start`
 
@@ -16,8 +22,7 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
