@@ -3,7 +3,8 @@ Kiran TO-DO list with REACT
 
 ##Here have a look on how it looks like .
 
-<img width="973" alt="Screen Shot 2022-07-12 at 8 16 01 pm" src="https://user-images.githubusercontent.com/101395279/178468117-9182ebb2-c753-4fca-943d-55da1ca6cdf5.png">
+<img width="862" alt="TODOLIST" src="https://user-images.githubusercontent.com/101395279/178472381-7e1fc5a2-3a74-4aba-9c96-7b91cdac35b0.png">
+
 
 
 
